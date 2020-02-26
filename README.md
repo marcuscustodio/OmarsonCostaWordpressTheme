@@ -5,4 +5,4 @@ The project is about a client who needs a page to showw your thoughts and show y
 
 This project was made by using PHP, Codex Wordpress,Bootstrap, SASS, CSS3, HTML5, Jquery and Javascript.
 
-Link for the project (https://omarson.com.br/)
+Link for the project [Omarson Costa](https://omarson.com.br/)
